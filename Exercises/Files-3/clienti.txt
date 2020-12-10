@@ -1,0 +1,6 @@
+nume,prenume,varsta
+
+Lungu,Cornel,18
+Eleste,Dorel,16
+Plm,Ion,20
+Aiaie,Marcel,14

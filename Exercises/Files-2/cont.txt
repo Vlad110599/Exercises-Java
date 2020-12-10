@@ -1,0 +1,4 @@
+nume,parola
+Cornel,fafa
+Dorel,4321
+Cornel,parolamea
